@@ -11,7 +11,7 @@
 
 - 🤖 Building **Sentinel** — Agentic AI platform for explainable financial intelligence (LangGraph + FinBERT + Gemini)
 - 🔗 Built **ChainFund** — Decentralized chit fund protocol on Ethereum (Solidity + Foundry + Sepolia)
-- 🎓 B.Tech CSE @ VIT Chennai | CGPA: 8.54 | 2023–2027
+- 🎓 B.Tech CSE @ VIT Chennai | 2023–2027
 - 💡 Interested in **AI Agents**, **DeFi**, and **Generative AI**
 - 📬 **dhanushkg23@gmail.com**
 
