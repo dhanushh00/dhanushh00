@@ -17,16 +17,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [**Sentinel**](https://github.com/dhanushh00/sentinel) | Agentic AI platform — multi-agent financial analysis with explainable insights | LangGraph · FinBERT · FastAPI · Next.js · Gemini |
-| [**ChainFund**](https://github.com/dhanushh00/chainfund) | Decentralized chit fund on Ethereum with AI oracle | Solidity · Foundry · React · ethers.js |
-| [**Legal Sentiment Analyzer**](https://github.com/dhanushh00/legal-sentiment-analyzer) | NLP pipeline for legal document sentiment classification | BERT · FLAN-T5 · Python |
-
----
-
 ### 🛠️ Tech Stack
 
 **AI / ML**
