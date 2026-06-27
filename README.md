@@ -2,7 +2,7 @@
 <h3 align="center">Pre-Final Year CSE @ VIT Chennai | AI • Blockchain • Full Stack</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+Agents+%2B+Blockchain+Protocols;LangGraph+%7C+Solidity+%7C+Next.js+%7C+FastAPI;Open+to+AI+%26+Web3+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+Agents+%2B+Blockchain+Protocols;LangGraph+%7C+Solidity+%7C+Next.js+%7C+FastAPI;Open+to+AI+%26+Web3+Full Time+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
